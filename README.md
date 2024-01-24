@@ -1,5 +1,5 @@
 # Tumor-brain-segmentation
-This project aims to automate brain tumor segmentation in MRI images using Mask R-CNN, an instance segmentation algorithm. The objective is to identify and delineate tumor regions within the brain accurately.
+This project aims to automate brain tumor segmentation in MRI images using Mask R-CNN and YoloV8, an instance segmentation algorithm. The objective is to identify and delineate tumor regions within the brain accurately.
 Tumor brain segmentation follows these steps:
 1. Collect and preprocess the images, annotating tumor regions to create a labeled dataset.
 2. Choose Mask R-CNN for instance segmentation and initialize the model with pre-trained weights from COCO.
